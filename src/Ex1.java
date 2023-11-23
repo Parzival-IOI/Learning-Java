@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 public class Ex1 {
     public static void main(String[] args) {
-        //this function represent one exercise
+        //each of this function represent one exercise
         //comment out if not needed
+        //uncomment to RUN exercise
         ex1();
 //        ex2();
 //        ex3();
