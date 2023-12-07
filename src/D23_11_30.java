@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Arrays;
 
 
 public class D23_11_30 {
@@ -13,7 +14,7 @@ public class D23_11_30 {
         
         String ss = "IDKHM1603633111<<<<<<<<<<<<<<<,9501016M2406215KHM<<<<<<<<<<<6,MEN<<CHENDA<<<<<<<<<<<<<<<<<<<";
 
-
+        // System.out.println(Arrays.binarySearch(ss.split("<"), "CHENDA"));
 
         // System.out.println(ex1(str1));
         // System.out.println(ex1(str2));
