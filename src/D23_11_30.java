@@ -35,10 +35,10 @@ public class D23_11_30 {
         }
             
     }
+
     public static String ex1(String str) {
         return (str.substring(str.indexOf(":") + 2, str.length()));
     }
-
 
     public static String[] ex2(String str) {
         String[] s = new String[6];

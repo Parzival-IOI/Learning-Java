@@ -1,6 +1,5 @@
 import java.math.BigDecimal;
 import java.util.Scanner;
-import java.util.HashMap;
 import java.util.Random;
 
 public class D23_11_23 {
